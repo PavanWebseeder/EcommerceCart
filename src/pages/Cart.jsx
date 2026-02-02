@@ -17,7 +17,7 @@ const Cart = () =>{
                     <span className="text-right font-semibold">{item.price}</span>
                     <button
                     onClick={()=>dispatch(removeToCart(item.id))}
-                    className="bg-red-500 text-white w-20 p-1 rounded-full ms-14 md:ms-48">Remove</button>
+                    className="bg-red-500 text-white w-20 p-1 rounded-full ms-9 md:ms-48">Remove</button>
                 </div>
             ))}
             <h2 className="mt-4 font-semibold text-xl"> Total:₹{total}</h2>
