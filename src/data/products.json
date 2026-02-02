@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "title": "Wireless Headphones",
+    "price": 2999,
+    "category": "Electronics",
+    "image": "https://picsum.photos/seed/1/300/300"
+  },
+  {
+    "id": 2,
+    "title": "Bluetooth Speaker",
+    "price": 1999,
+    "category": "Electronics",
+    "image": "https://picsum.photos/seed/1/300/300"
+  },
+  {
+    "id": 3,
+    "title": "Smart Watch",
+    "price": 4999,
+    "category": "Electronics",
+    "image": "https://picsum.photos/seed/1/300/300"
+  },
+  {
+    "id": 4,
+    "title": "Laptop Backpack",
+    "price": 1499,
+    "category": "Accessories",
+    "image": "https://picsum.photos/seed/1/300/300"
+  },
+  {
+    "id": 5,
+    "title": "Gaming Mouse",
+    "price": 999,
+    "category": "Electronics",
+    "image": "https://picsum.photos/seed/1/300/300"
+  },
+  {
+    "id": 6,
+    "title": "Mechanical Keyboard",
+    "price": 3499,
+    "category": "Electronics",
+    "image": "https://picsum.photos/seed/1/300/300"
+  },
+  {
+    "id": 7,
+    "title": "Running Shoes",
+    "price": 3999,
+    "category": "Fashion",
+    "image": "https://picsum.photos/seed/1/300/300"
+  },
+  {
+    "id": 8,
+    "title": "Men's T-Shirt",
+    "price": 799,
+    "category": "Fashion",
+    "image": "https://picsum.photos/seed/1/300/300"
+  },
+  {
+    "id": 9,
+    "title": "Women's Handbag",
+    "price": 2599,
+    "category": "Fashion",
+    "image": "https://picsum.photos/seed/1/300/300"
+  },
+  {
+    "id": 10,
+    "title": "Sunglasses",
+    "price": 1299,
+    "category": "Accessories",
+    "image": "https://picsum.photos/seed/1/300/300"
+  },
+  {
+    "id": 11,
+    "title": "Office Chair",
+    "price": 6999,
+    "category": "Furniture",
+    "image": "https://picsum.photos/seed/1/300/300"
+  },
+  {
+    "id": 12,
+    "title": "Study Table",
+    "price": 8499,
+    "category": "Furniture",
+    "image": "https://picsum.photos/seed/1/300/300"
+  },
+  {
+    "id": 13,
+    "title": "Water Bottle",
+    "price": 499,
+    "category": "Home",
+    "image": "https://picsum.photos/seed/1/300/300"
+  },
+  {
+    "id": 14,
+    "title": "Coffee Mug",
+    "price": 399,
+    "category": "Home",
+    "image": "https://picsum.photos/seed/1/300/300"
+  },
+  {
+    "id": 15,
+    "title": "Wall Clock",
+    "price": 1199,
+    "category": "Home",
+    "image": "https://picsum.photos/seed/1/300/300"
+  },
+  {
+    "id": 16,
+    "title": "Power Bank",
+    "price": 1799,
+    "category": "Electronics",
+    "image": "https://picsum.photos/seed/1/300/300"
+  },
+  {
+    "id": 17,
+    "title": "Mobile Phone Stand",
+    "price": 299,
+    "category": "Accessories",
+    "image": "https://picsum.photos/seed/1/300/300"
+  },
+  {
+    "id": 18,
+    "title": "Earbuds",
+    "price": 2499,
+    "category": "Electronics",
+    "image": "https://picsum.photos/seed/1/300/300"
+  },
+  {
+    "id": 19,
+    "title": "Fitness Band",
+    "price": 2199,
+    "category": "Electronics",
+    "image": "https://picsum.photos/seed/1/300/300"
+  },
+  {
+    "id": 20,
+    "title": "Desk Lamp",
+    "price": 1599,
+    "category": "Home",
+    "image": "https://picsum.photos/seed/1/300/300"
+  }
+]
